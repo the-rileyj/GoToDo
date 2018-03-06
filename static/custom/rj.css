@@ -1,0 +1,24 @@
+#app {
+    background-color: #1976D2;
+    /* #b3d4fc */
+    /* 38C6FF */
+}
+
+#main {
+    background-color: #1976D2;
+}
+
+#main-content {
+    background-color: #b3d4fc;
+    border-radius: .25rem;
+}
+
+#showEvents {
+    /* height: 50%; */
+    background-color: white;
+}
+
+#addEvent {
+    /* height: 50%; */
+    background-color: red;
+}
